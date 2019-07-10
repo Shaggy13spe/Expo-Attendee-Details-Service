@@ -1,0 +1,37 @@
+{
+  "participant": [
+    {
+      "id": "1",
+      "participantId": "1",
+      "badgeFirstName": "Bud",
+      "badgeLastName": "Barnhorst",
+      "participantBusinessAddressName": "Marek Auto Service",
+      "businessAddressLine1": "240 Rowland St",
+      "businessAddressLine2": "404 E 15th St",
+      "businessCity": "Eads",
+      "businessPostalCode": "45822",
+      "businessStateProvince": "OH",
+      "businessCountry": "United States",
+      "businessPhoneCountryCode": "Example",
+      "businessPhoneNumber": "Example",
+      "businessPhoneExtension": "Example",
+      "mobilePhoneNumber": "678-123-1888",
+      "participantEmail": "participant@email.com",
+      "attendeeEmailAddress": "myEmail@email.com",
+      "attendeeType": "Store Owner",
+      "companyOwned": true,
+      "customerStoreName": "McKay Auto Parts - Warehouse",
+      "customerId": "464",
+      "DCName": "NAPA Detroit",
+      "primaryRepairFacility": "Mechanical Service Center",
+      "otherTypesOfRepairs": "Collision Center",
+      "storeId": "168",
+      "subAttendeeType": "Reporting",
+      "customerAR": "4125",
+      "boothNumber": "3924",
+      "jobber": true,
+      "role": "Outside Sales",
+      "napaAutoCareMember": true
+    }
+  ]
+}
