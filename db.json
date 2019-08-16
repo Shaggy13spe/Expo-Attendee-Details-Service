@@ -3,8 +3,8 @@
   {
     "id": 1,
     "participantId": 1,
-    "badgeFirstName": "Michael",
-    "badgeLastName": "Morrison",
+    "badgeFirstName": "Rajesh",
+    "badgeLastName": "Kelkar",
     "participantBusinessAddressName": "Barnes Motor & Parts Company",
     "businessAddressLine1": "103 Trade St",
     "businessAddressLine2": "",
@@ -36,8 +36,8 @@
     {
     "id": 2,
     "participantId": 2,
-    "badgeFirstName": "Bronson",
-    "badgeLastName": "Lane",
+    "badgeFirstName": "Brad",
+    "badgeLastName": "Radaker",
     "participantBusinessAddressName": "Barnes Motor & Parts Company",
     "businessAddressLine1": "103 Trade St",
     "businessAddressLine2": "",
